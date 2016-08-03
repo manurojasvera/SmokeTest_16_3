@@ -37,7 +37,7 @@ class APISpec extends BaseFeatureSpec {
     scenario("We are going to verify if the changes are commited"){
       val expectedResult = "true"
 
-      Given("text2SC2")
+      Given("cambio aca")
 
       When("text3SC2")
 
