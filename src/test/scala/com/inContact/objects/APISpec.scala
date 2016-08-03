@@ -34,7 +34,7 @@ class APISpec extends BaseFeatureSpec {
       info("TEST RESULT => %s == %s\n".format(expectedResult, testResult))
     }
 
-    scenario("text1SC2"){
+    scenario("We are going to verify if the changes are commited"){
       val expectedResult = "true"
 
       Given("text2SC2")
